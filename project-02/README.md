@@ -14,5 +14,5 @@ The objective of this project is to spell out the SOS in Morse code using an LED
 This sketch was made using TinkerCAD software
 
 <div align="center">
-  <a href="https://github.com/joseferreira-dev/book-beginning-arduino-projects/tree/main/project-01"><img src="sketch.png" alt="Project sketch"></a>
+  <a href="https://github.com/joseferreira-dev/book-beginning-arduino-projects/tree/main/project-02"><img src="sketch.png" alt="Project sketch"></a>
 </div>

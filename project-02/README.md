@@ -1,6 +1,6 @@
-# LED Flasher
+# SOS Morse Signaller
 
-The objective of this project is to spell out the SOS code in Morse code using an LED.
+The objective of this project is to spell out the SOS in Morse code using an LED.
 
 ## Project Components
 
